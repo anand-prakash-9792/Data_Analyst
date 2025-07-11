@@ -1,5 +1,5 @@
 -- What are the Top SKills based on Salary
-
+ 
 SELECT
     skills,
     ROUND(AVG(salary_year_avg), 2) AS average_salary
